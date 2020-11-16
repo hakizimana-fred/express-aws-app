@@ -1,6 +1,6 @@
 const express = require('express')
 
-const users = [{ name: 'haki', email: 'hakifred20@gmail.com' }, { name: 'farida', email: 'farida@yahoo.com' }]
+const users = [{ name: 'hakii', email: 'hakifred20@gmail.com' }, { name: 'farida', email: 'farida@yahoo.com' }]
 
 const PORT = process.env.port || 5000
 
